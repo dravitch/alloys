@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a518df31-8281-47a3-b1a4-5dab64439451" name="Changes" comment="Fix ipynb file: &quot;execution_count&quot;: None," />
+    <list default="true" id="a518df31-8281-47a3-b1a4-5dab64439451" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;alloy-btc-paxg-trading/notebooks/alloy_btc_paxg_quickstart.ipynb">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,24 +27,24 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dravitch"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dravitch&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="f317f2bd-f976-46b3-8050-88b0a8b24c22" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dravitch/alloys.git",
-    "accountId": "f317f2bd-f976-46b3-8050-88b0a8b24c22"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dravitch/alloys.git&quot;,
+    &quot;accountId&quot;: &quot;f317f2bd-f976-46b3-8050-88b0a8b24c22&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2xFdcoROdrUJneWSbmqqwac0oE0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,6 +56,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/admin.andre.dingarea/PycharmProjects/alloys/alloy-btc-paxg-trading/tests"
   }
 }]]></component>
@@ -108,12 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1747545907975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;alloy-btc-paxg-trading/notebooks/alloy_btc_paxg_quickstart.ipynb">
+      <option name="closed" value="true" />
+      <created>1747558231155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747558231155</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Fix ipynb file: &quot;execution_count&quot;: None," />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix ipynb file: &quot;execution_count&quot;: None," />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;alloy-btc-paxg-trading/notebooks/alloy_btc_paxg_quickstart.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;alloy-btc-paxg-trading/notebooks/alloy_btc_paxg_quickstart.ipynb" />
   </component>
 </project>

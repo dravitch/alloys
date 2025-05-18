@@ -1,0 +1,94 @@
+# Alloy BTC-PAXG: Dynamic Value Preservation Strategy
+
+![Alloy Strategy](https://img.shields.io/badge/Strategy-Anti--Fragile-blue)
+![Crypto](https://img.shields.io/badge/Assets-BTC%20%7C%20PAXG-orange)
+![Version](https://img.shields.io/badge/Version-1.0.0-green)
+
+The Alloy project is a dynamic asset allocation strategy designed to preserve value by intelligently balancing between Bitcoin (BTC) and Pax Gold (PAXG) based on market conditions.
+
+## 📊 Strategy Overview
+
+The Alloy BTC-PAXG strategy aims to:
+
+- Protect against extreme market volatility
+- Capture upside during bull markets
+- Minimize drawdowns during bear markets
+- Maintain low correlation with pure BTC holdings
+- Provide better risk-adjusted returns than simple Buy & Hold
+
+The strategy uses momentum and volatility signals to dynamically adjust allocations between BTC and PAXG, providing an anti-fragile portfolio that can weather various market conditions.
+
+## 🚀 Features
+
+- **Backtesting Engine**: Test the strategy against historical data
+- **Performance Metrics**: Comprehensive performance analysis
+- **Trading Signals**: Get actionable buy/sell recommendations
+- **Parameter Optimization**: Find optimal settings for your risk profile
+- **Benchmark Comparison**: Compare with Buy & Hold and DCA strategies
+
+## 💻 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/alloy-btc-paxg-trading.git
+cd alloy-btc-paxg-trading
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the web application
+streamlit run app.py
+```
+
+## 📱 Web Application
+
+The Alloy BTC-PAXG Trading Assistant includes a web application built with Streamlit that provides:
+
+- Interactive backtesting with customizable parameters
+- Real-time strategy performance visualization
+- Trading signals and alerts
+- Portfolio allocation recommendations
+
+## ⚙️ Configuration
+
+You can customize the strategy by adjusting the following parameters:
+
+- `momentum_window`: Window size for momentum calculation (default: 30 days)
+- `volatility_window`: Window size for volatility calculation (default: 60 days)
+- `momentum_threshold_bull`: Threshold for bullish momentum (default: 10%)
+- `momentum_threshold_bear`: Threshold for bearish momentum (default: -5%)
+- `max_btc_allocation`: Maximum BTC allocation (default: 90%)
+- `min_btc_allocation`: Minimum BTC allocation (default: 20%)
+- `rebalance_frequency`: Days between rebalancing (default: 3 days)
+
+## 📈 Sample Results
+
+Based on historical data from 2020-01-01 to 2024-01-05:
+
+- **Annualized Return**: 44.11%
+- **Annualized Volatility**: 32.70%
+- **Sharpe Ratio**: 1.35
+- **Maximum Drawdown**: 43.78%
+- **BTC Correlation**: 0.1691
+
+Compared to benchmarks:
+- **BTC Buy & Hold Return**: 513.60%
+- **PAXG Buy & Hold Return**: 32.37%
+
+## ⚠️ Disclaimer
+
+This project is for educational and research purposes only. It is not financial advice. Cryptocurrency investments are volatile and risky. Always do your own research and consider seeking advice from a qualified financial advisor before making investment decisions.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request

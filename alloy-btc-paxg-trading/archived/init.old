@@ -1,0 +1,19 @@
+"""
+Alloy BTC-PAXG Trading Assistant package initialization.
+"""
+
+__version__ = '1.0.0'
+
+import os
+import sys
+import logging
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
+
+# Initialize the package
+logger.info(f"Initializing Alloy BTC-PAXG Trading Assistant v{__version__}")

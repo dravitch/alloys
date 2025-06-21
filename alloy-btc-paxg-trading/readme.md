@@ -3,7 +3,7 @@
 ![Alloy Strategy](https://img.shields.io/badge/Strategy-Anti--Fragile-blue)
 ![Crypto](https://img.shields.io/badge/Assets-BTC%20%7C%20PAXG-orange)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/alloy-btc-paxg-trading/blob/main/notebooks/Alloy_BTC_PAXG_QuickStart.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/alloy-btc-paxg-trading/blob/main/notebooks/alloy_btc_paxg_quickstart.ipynb)
 
 The Alloy BTC-PAXG strategy is a dynamic asset allocation approach designed to preserve value by intelligently balancing between Bitcoin (BTC) and Pax Gold (PAXG) based on market conditions.
 
@@ -30,7 +30,7 @@ Get started immediately without installing anything:
 3. Use the interactive widgets to adjust parameters and explore the strategy
 4. Generate trading signals and analyze performance metrics
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/alloy-btc-paxg-trading/blob/main/notebooks/Alloy_BTC_PAXG_QuickStart.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/alloy-btc-paxg-trading/blob/main/notebooks/alloy_btc_paxg_quickstart.ipynb)
 
 ### Option 2: Run the Jupyter Notebook Locally
 
